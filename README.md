@@ -12,6 +12,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
+![ESP32](https://img.shields.io/badge/ESP32-%23B30000.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-%23004984.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-%23CC0000.svg?style=for-the-badge&logo=nodered&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ---
 
