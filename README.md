@@ -32,5 +32,5 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 Tien Huynh tienhuynh-tn
+  &copy; 2025 Rayden
 </div>
