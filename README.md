@@ -16,7 +16,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%19hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2026%20mins-blue)
 
 **I'm an Early 🐤** 
 
