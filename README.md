@@ -18,20 +18,12 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2026%20mins-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                73 commits          ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-🌆 Daytime                117 commits         ███████████░░░░░░░░░░░░░░   44.66 % 
-🌃 Evening                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-🌙 Night                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Chicago
+🕑︎ Time Zone: Indonesia
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -46,12 +38,6 @@ No Activity Tracked This Week
 
 
 ---
-
-
-[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
