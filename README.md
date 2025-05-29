@@ -38,6 +38,6 @@
 ---
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  Thanks for watching my profile! Have a nice day! <br/>
   &copy; 2025 Rayden
 </div>
