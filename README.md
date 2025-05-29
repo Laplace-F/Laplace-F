@@ -40,7 +40,7 @@
 <div align="center">
   Thanks for watching my profile! Have a nice day! <br/>
 
----
+
 
   &copy; 2025 Laplace-F
 </div>
