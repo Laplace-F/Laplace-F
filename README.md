@@ -1,6 +1,6 @@
 # Hi there, I'm Rayden  <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-## I'm a Student From Multimedia Nusantara University
+## I'm Student From Multimedia Nusantara University
 
 
 
